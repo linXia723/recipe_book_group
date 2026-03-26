@@ -1,8 +1,8 @@
 Pudding:
 ## Ingredients
 1/2 cup sugar 
-2 spoon of water
-some decoration you want 
+2 spoon of light cream
+1 banana 
 
 Custard: 
 2 eggs 
