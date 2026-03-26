@@ -1,7 +1,8 @@
 Pudding:
 ## Ingredients
 1/2 cup sugar 
-2 tbsp water 
+2 spoon of water
+some decoration you want 
 
 Custard: 
 2 eggs 
