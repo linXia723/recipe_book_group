@@ -42,3 +42,5 @@ Dip cooked ingredients into your sauce and enjoy immediately!
 Serve
 Keep the broth simmering throughout the meal so everyone can cook their favorite items.
 Garnish with sesame seeds or fresh cilantro if desired.
+post-meal fruits
+mango,watermelon
