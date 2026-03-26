@@ -1,6 +1,5 @@
-#HOTPOT
 
-##Ingredients
+# #Ingredients
 Broth Options (pick 1 or mix):
 6 cups (1.5L) chicken/vegetable broth (store-bought or homemade with ginger, garlic, and scallions)
 OR 6 cups (1.5L) spicy miso broth (add 2 tbsp miso paste + 1 tsp chili oil to base broth)
@@ -25,7 +24,7 @@ Seasoning:
 Salt & white pepper (to taste)
 1 tsp sesame seeds (for garnish)
 
-##Instructions
+# #Instructions
 Prep Ingredients
 Slice meats/shrimp thinly; wash and chop vegetables.
 Soak noodles in warm water (if dry) until soft.
