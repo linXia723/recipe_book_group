@@ -1,5 +1,5 @@
 # Pumpkin pie recipe
-
+##Please add the cuisine before the title
 
 ## Preparation
 
@@ -10,7 +10,8 @@
 
 
 ## Ingredients
-
+##Please indicate the amount of ingredients clearly
+##What'more you can add some banana.
 - Pie shell
 - Nutmeg
 - Can of evaporated milk
